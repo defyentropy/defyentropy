@@ -1,9 +1,8 @@
-**👋 Hi, I’m @scientist27.**
-I’m interested in web development, because the internet is one of the most powerful platforms out there today, in my opinion. I’m currently brushing up my HTML and CSS before moving on to JavaScript, after which I will start learning frameworks like React.
+# 👋🏼 Hi, I'm Hari!
 
-However, like many others, my first language was Python, and I still love working with it, so I occasionally build simple command-line apps with it as well.
+I'm a student from India who loves building things that make life easier for me and occasionally others - granted, some of my projects are ridiculously overegineered , but I still learn something along the journey of building them. You can look through some of my work here on my GitHub repo.
 
-You can view my work on my GitHub page (which you are presumably on anyway).
+[Twitter](https://twitter.com/seafoamteal) | [DEV Community](https://dev.to/scientist27)
 
 <!---
 scientist27/scientist27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
